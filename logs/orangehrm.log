@@ -1,0 +1,24 @@
+2024-09-03 13:41:57:INFO:********************test valid admin login data driven started ************
+2024-09-03 13:42:07:INFO:test data is passed
+2024-09-03 13:47:57:INFO:********************test valid admin login data driven started ************
+2024-09-03 13:49:22:INFO:********************test valid admin login data driven started ************
+2024-09-03 13:58:49:INFO:********************test valid admin login data driven started ************
+2024-09-03 13:59:15:INFO:********************test valid admin login data driven started ************
+2024-09-03 14:01:10:INFO:********************test valid admin login data driven started ************
+2024-09-03 14:01:18:INFO:test data is passed
+2024-09-03 14:01:25:INFO:test data has passed,it should not have logged in 
+2024-09-03 14:01:51:INFO:test data has passed,it should not have logged in 
+2024-09-03 14:01:52:INFO:the test case has failed for one or more data sets
+2024-09-03 14:03:06:INFO:********************test valid admin login data driven started ************
+2024-09-03 14:03:13:INFO:test data is passed
+2024-09-03 14:03:21:INFO:test data has passed,it should not have logged in 
+2024-09-03 14:03:47:INFO:test data has passed,it should not have logged in 
+2024-09-03 14:04:07:INFO:the test case has failed for one or more data sets
+2024-09-09 12:18:16:INFO:********************test valid admin login data driven started ************
+2024-09-09 12:18:25:INFO:test data is passed
+2024-09-09 12:18:32:INFO:test data has passed,it should not have logged in 
+2024-09-09 12:18:58:INFO:test data has passed,it should not have logged in 
+2024-09-09 12:19:19:INFO:the test case has failed for one or more data sets
+2024-09-09 13:49:34:INFO:****************************Test_01_Admin_Login********************************
+2024-09-09 13:49:34:INFO:**************************Verification of admin login page title********************************
+2024-09-09 13:49:36:INFO:****************************Test_Title_Match********************************
